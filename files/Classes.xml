@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programm_description>
+    <command name = "dir" class_name = "Dir"/>
+    <command name = "cd" class_name = "CD"/>
+    <command name = "pwd" class_name = "Pwd"/>
+</programm_description>
