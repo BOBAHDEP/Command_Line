@@ -126,7 +126,7 @@ public class Main {
         }
     }
 
-    private static void printHelp(){              //todo 1
+    private static void printHelp(){
         System.out.println("Possible functions:");
         for (String s: getClassFunctions()[1]){
             System.out.println(s);

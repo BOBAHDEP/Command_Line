@@ -21,10 +21,4 @@ public class Dir extends Function{
         }
         return null;
     }
-
-//    public static void main(String[] args) {
-//        Dir dir = new Dir();
-//        Scanner scanner = new Scanner(System.in);
-//        dir.make(scanner.next(), null);
-//    }
 }
